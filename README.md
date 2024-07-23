@@ -1,4 +1,6 @@
 # ML-Research-Paper-Implementations
-Repo containing my attempts at Re-Implementing ML Research Papers
 
-Also contains the breakdown of other Research papers, with annoatations and explainations
+Repo contains
+- my attempts at re-implementing ml papers
+- personal annotations of all papers
+- annotationed papers and interactive react dashboards for better understanding of the dl / llm related papers
